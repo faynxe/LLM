@@ -1,6 +1,3 @@
-import os
-print(f"MODEL DIR {os.getcwd()}")
-print(f"LIST DIR {os.listdir()}")
 import itertools
 import os
 from enum import Enum
