@@ -1,0 +1,5 @@
+/opt/ml/model/lib/accelerate/accelerate-0.21.0-py3-none-any.whl
+/opt/ml/model/lib/safetensors/safetensors-0.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+/opt/ml/model/lib/transformers/transformers-4.31.0-py3-none-any.whl
+/opt/ml/model/lib/sagemaker_jumpstart_huggingface_script_utilities/sagemaker_jumpstart_huggingface_script_utilities-1.0.7-py2.py3-none-any.whl
+/opt/ml/model/lib/sagemaker_jumpstart_script_utilities/sagemaker_jumpstart_script_utilities-1.1.8-py2.py3-none-any.whl
